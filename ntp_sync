@@ -1,0 +1,2 @@
+#!/bin/bash
+ntpdate south-america.pool.ntp.org

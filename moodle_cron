@@ -1,0 +1,3 @@
+#!/bin/bash
+aula=/var/www/html/moodle
+/bin/php $aula/admin/cli/cron.php
